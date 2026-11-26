@@ -1,0 +1,38 @@
+
+# Proprietary firmware and keys
+*.nca
+*.cnmt
+*.nsp
+*.xci
+*.nro
+*.keys
+*.zip
+*.bin
+*.prodinfo
+prod.keys
+title.keys
+NX2_23_0_1/
+firmware/
+
+# Research artifacts and hardware logs
+experimental/
+baseline/
+*.log
+*.original
+*.bak
+*.dump
+crash_reports/
+fatal_errors/
+
+# Build artifacts
+build/
+dist/
+*.o
+*.elf
+*.map
+*.d
+
+# Secrets and local configuration
+.env
+.env.*
+.DS_Store

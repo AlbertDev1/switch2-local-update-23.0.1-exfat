@@ -1,0 +1,14 @@
+.vscode/
+
+*.log
+
+build/
+
+*.elf
+*.kip
+*.npdm
+*.nso
+*.nsp
+
+out/
+dist/
