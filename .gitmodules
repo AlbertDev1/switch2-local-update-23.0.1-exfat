@@ -1,0 +1,6 @@
+[submodule "atmosphere-libs"]
+	path = source/match-version-unlocker/Atmosphere-libs
+	url = https://github.com/Atmosphere-NX/Atmosphere-libs.git
+[submodule "libnx"]
+	path = source/match-version-unlocker/libnx
+	url = https://github.com/switchbrew/libnx.git
